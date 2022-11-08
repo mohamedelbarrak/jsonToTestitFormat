@@ -1,0 +1,30 @@
+{
+    "type": "Item",
+    "productLine": {
+     "code": "EYE"
+    },
+    "variants": [
+    {
+     "emblematic": false,
+     "collections": [
+      {
+        "code": "22",
+        "label": "2021",
+        "lEn": "2021",
+        "refereCode": "Collection"
+      }
+     ]
+    },
+    {
+     "emblema": true,
+     "collections": [
+      {
+        "code": "2",
+        "label": "2021 d’art",
+        "En": "art",
+        "referential": "Collection"
+      }
+     ]
+    }
+    ]
+}
